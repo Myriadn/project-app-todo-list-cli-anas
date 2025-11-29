@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Belajar Golang",
+    "status": "progress",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Mengerjakan Skripsi",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": 3,
+    "title": "Main",
+    "status": "new",
+    "priority": "low"
+  },
+  {
+    "id": 4,
+    "title": "Skripsi Bab 1",
+    "status": "new",
+    "priority": "high"
+  },
+  {
+    "id": 5,
+    "title": "Meeting Dosen",
+    "status": "new",
+    "priority": "medium"
+  },
+  {
+    "id": 6,
+    "title": "Mandi",
+    "status": "new",
+    "priority": "High"
+  }
+]
